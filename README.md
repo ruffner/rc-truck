@@ -5,4 +5,4 @@ Originally written in 2014.
 
 ### Dependencies
 Uses my ADXL362 library.
-Uses Stefan Engelke's NRF24L01+ register definitions: ``` nrf24l01.h ```
+Uses Stefan Engelke's NRF24L01+ register definitions: ``` nRF24L01.h ```
